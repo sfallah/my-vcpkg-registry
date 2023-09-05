@@ -1,0 +1,8 @@
+{
+    "default": {
+      "xxhash": {
+        "baseline": "0.8.2",
+        "port-version": 0
+      }
+    }
+  }
